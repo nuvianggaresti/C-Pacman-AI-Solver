@@ -11,5 +11,7 @@ Pacman performs similarly in all of Level 1, 2, and 3.
 
 Acknowledgement:
 Base code was adapted by Nir Lipovetzky (2019) from Pacman For Console V1.3
+
 By: Mike Billars (michael@gmail.com)
+
 Date: 2014-04-26
