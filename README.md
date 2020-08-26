@@ -9,6 +9,9 @@ Heuristic is used to choose the best action. It can be implemented using either 
 
 Pacman performs similarly in all of Level 1, 2, and 3.
 
+You can execute ./pacman <level> to play the game with keyboard.
+<br /> To run the solver, you can execute ./pacman <level> <ai/aipause> <max/avg> <budget>
+
 Acknowledgement:
 <br />Base code was adapted by Nir Lipovetzky (2019) from Pacman For Console V1.3
 <br />By: Mike Billars (michael@gmail.com)
