@@ -11,6 +11,7 @@ Pacman performs similarly in all of Level 1, 2, and 3.
 
 You can execute ./pacman <level> to play the game with keyboard.
 <br /> To run the solver, you can execute ./pacman <level> <ai/aipause> <max/avg> <budget>
+<br><br><br>
 
 Acknowledgement:
 <br />Base code was adapted by Nir Lipovetzky (2019) from Pacman For Console V1.3
